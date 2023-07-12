@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-churchhealth-dev-185213-authRole",
+      "UnauthRoleArn": "arn:aws:iam::712043496150:role/amplify-churchhealth-dev-185213-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::712043496150:role/amplify-churchhealth-dev-185213-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-churchhealth-dev-185213-deployment",
+      "UnauthRoleName": "amplify-churchhealth-dev-185213-unauthRole",
+      "StackName": "amplify-churchhealth-dev-185213",
+      "StackId": "arn:aws:cloudformation:us-east-1:712043496150:stack/amplify-churchhealth-dev-185213/94c0eef0-203d-11ee-ba5d-0eccea90ca6b",
+      "AmplifyAppId": "de7u4zbdiu3yt"
+    },
+    "categories": {
+      "auth": {
+        "churchhealth95293124": {}
+      }
+    }
+  }
+}
